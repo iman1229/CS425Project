@@ -9,13 +9,19 @@
 #include <QVBoxLayout>
 #include <QHBoxLayout>
 #include <QPushButton>
-
+#include <QFrame>
+#include <QGroupBox>
 class QDataControlWidget : public QWidget{
 Q_OBJECT
 private:
-    QLabel widget_label;
+    QLabel * widget_label;
 
     QVBoxLayout * main_layout;
+
+    QGroupBox * main_box;
+    QGroupBox * but_col_1_box;
+    QGroupBox * but_col_2_box;
+    QGroupBox * but_box;
 
     QVBoxLayout * button_col_1;
     QVBoxLayout * button_col_2;
@@ -28,7 +34,9 @@ private:
 
     QPushButton * but_display_data;
     QPushButton * but_export_data;
-    QPushButton* but_calculate;
+    QPushButton * but_calculate;
+
+    QFrame * frame;
 
 public:
     QDataControlWidget(QWidget * parent = 0);

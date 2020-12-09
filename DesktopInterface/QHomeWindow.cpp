@@ -12,7 +12,8 @@ QHomeWindow::QHomeWindow(QWidget *parent) {
     home_page_layout->addWidget(vr_controls);
 
     //Add Data Controls
-    //Connect the layout
+    data_controls = new QDataControlWidget();
+    home_page_layout->addWidget(data_controls);
     setLayout(home_page_layout);
 
 
