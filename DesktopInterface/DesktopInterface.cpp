@@ -29,7 +29,7 @@ DesktopInterface::DesktopInterface(QApplication *app) {
     home_window->show();
 }
 
-int DesktopInterface::run() const {
+int DesktopInterface::run() {
     try{
         return app->exec();
     }

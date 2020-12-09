@@ -16,7 +16,7 @@ private:
 public:
     DesktopInterface();
     DesktopInterface(QApplication * app);
-    int run() const;
+    int run();
 };
 
 
