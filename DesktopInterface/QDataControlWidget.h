@@ -1,0 +1,14 @@
+//
+// Created by plays on 12/9/2020.
+//
+
+#ifndef DESKTOPINTERFACE_QDATACONTROLWIDGET_H
+#define DESKTOPINTERFACE_QDATACONTROLWIDGET_H
+
+
+class QDataControlWidget {
+
+};
+
+
+#endif //DESKTOPINTERFACE_QDATACONTROLWIDGET_H
