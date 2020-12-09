@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/DesktopInterface/main.cpp" "E:/DesktopInterface/cmake-build-debug/CMakeFiles/DesktopInterface.dir/main.cpp.obj"
+  "D:/Projects/CS425Project/DesktopInterface/main.cpp" "D:/Projects/CS425Project/DesktopInterface/cmake-build-debug/CMakeFiles/DesktopInterface.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
