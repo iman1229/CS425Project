@@ -8,11 +8,11 @@ QHomeWindow::QHomeWindow(QWidget *parent) {
     home_page_layout = new QHBoxLayout();
     home_page_layout->setSpacing(1);
     //Add VR controls
+    vr_controls = new QVRControlWidget();
+    home_page_layout->addWidget(vr_controls);
 
     //Add Data Controls
-
     //Connect the layout
-
     setLayout(home_page_layout);
 
 

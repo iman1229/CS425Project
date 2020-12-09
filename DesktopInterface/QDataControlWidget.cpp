@@ -3,3 +3,7 @@
 //
 
 #include "QDataControlWidget.h"
+
+QDataControlWidget::QDataControlWidget(QWidget *parent) {
+
+}
