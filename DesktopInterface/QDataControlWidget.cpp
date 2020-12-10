@@ -17,7 +17,7 @@ QDataControlWidget::QDataControlWidget(QWidget *parent) {
 
     widget_label = new QLabel(this);
     widget_label = new QLabel(this);
-    widget_label->setText("VR Controls");
+    widget_label->setText("Data Controls");
     widget_label->setAlignment(Qt::AlignCenter);
 
     main_layout->addWidget(widget_label);
