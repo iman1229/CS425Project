@@ -1,0 +1,6 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Isak\Documents\Unreal Projects\MyProject6).
+  Parsing headers for MyProject6
+    Running UnrealHeaderTool "C:\Users\Isak\Documents\Unreal Projects\MyProject6\MyProject6.uproject" "C:\Users\Isak\Documents\Unreal Projects\MyProject6\Intermediate\Build\Win64\MyProject6\Development\MyProject6.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+C:/Users/Isak/Documents/Unreal Projects/MyProject6/Source/MyProject6/ballMove.h(29): error : Expected an include at the top of the header: '#include "ballMove.generated.h"'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3075: The command "C:\Windows\System32\chcp.com 65001 >NUL 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3075:  "C:\Program Files\Epic Games\UE_4.23\Engine\Build\BatchFiles\Build.bat" MyProject6 Win64 Development -Project="C:\Users\Isak\Documents\Unreal Projects\MyProject6\MyProject6.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.

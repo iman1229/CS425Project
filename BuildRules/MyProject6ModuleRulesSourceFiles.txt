@@ -1,0 +1,8 @@
+C:\Users\Isak\Documents\Unreal Projects\MyProject6\Source\MyProject6\MyProject6.Build.cs
+C:\Users\Isak\Documents\Unreal Projects\MyProject6\Plugins\SRanipal\Source\SRanipalEditor\SRanipalEditor.Build.cs
+C:\Users\Isak\Documents\Unreal Projects\MyProject6\Plugins\SRanipal\Source\SRanipalLip\SRanipalLip.Build.cs
+C:\Users\Isak\Documents\Unreal Projects\MyProject6\Plugins\SRanipal\Source\SRanipalEye\SRanipalEye.Build.cs
+C:\Users\Isak\Documents\Unreal Projects\MyProject6\Plugins\SRanipal\Source\SRanipal\SRanipal.Build.cs
+C:\Users\Isak\Documents\Unreal Projects\MyProject6\Plugins\SRanipal\Source\SRanipalEyeTracker\SRanipalEyeTracker.Build.cs
+C:\Users\Isak\Documents\Unreal Projects\MyProject6\Source\MyProject6.Target.cs
+C:\Users\Isak\Documents\Unreal Projects\MyProject6\Source\MyProject6Editor.Target.cs
