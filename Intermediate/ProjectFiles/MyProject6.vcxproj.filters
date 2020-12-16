@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject6.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8D60AB60-095C-4DFD-AB96-D418B7931389}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject6.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject6Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\Advanced_Lighting.umap" />
+    <None Include="..\..\Advanced_Lighting_BuiltData.uasset" />
+    <None Include="..\..\ballMovement.uasset" />
+    <None Include="..\..\Minimal_Default.umap" />
+    <None Include="..\..\Minimal_Default_BuiltData.uasset" />
+    <None Include="..\..\StarterMap.umap" />
+    <None Include="..\..\StarterMap_BuiltData.uasset" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{B7FE2BFA-14BE-4BBF-B1CC-2D04420E3B69}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject6">
+      <UniqueIdentifier>{58556F4A-F1AB-4015-8464-78B4E582C849}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject6\ballMove.cpp">
+      <Filter>Source\MyProject6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject6\ballMove.h">
+      <Filter>Source\MyProject6</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject6\movingBall.cpp">
+      <Filter>Source\MyProject6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject6\movingBall.h">
+      <Filter>Source\MyProject6</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyProject6\MyProject6.Build.cs">
+      <Filter>Source\MyProject6</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject6\MyProject6.cpp">
+      <Filter>Source\MyProject6</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject6\MyProject6.h">
+      <Filter>Source\MyProject6</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
